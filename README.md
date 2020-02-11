@@ -1,3 +1,4 @@
+![.NET Core](https://github.com/camilogaraventa/Intro-TDD/workflows/.NET%20Core/badge.svg)
 # Intro-TDD
 Repositorio para demostración de uso de TDD.
 
