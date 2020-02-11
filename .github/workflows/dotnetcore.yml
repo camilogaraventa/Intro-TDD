@@ -16,4 +16,4 @@ jobs:
     - name: Build with dotnet
       run: dotnet build IntroTdd/IntroTdd.sln --configuration Release
     - name: Test with dotnet
-      run: dotnet test IntroTdd/IntroTdd.sln --configuration Release --filter Unit
+      run: dotnet test IntroTdd/IntroTdd.sln --configuration Release
